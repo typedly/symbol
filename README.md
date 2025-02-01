@@ -19,13 +19,13 @@ A **TypeScript** type definitions package for various symbols.
 
 - [Installation](#installation)
 - [Api](#api)
-  - `AlgebraicSymbols`,
-  - `ArithmeticSymbols`,
-  - `CurrencySymbols`,
-  - `GeometrySymbols`,
-  - `MathSymbols`,
-  - `RelationalSymbols`
-  - `SetTheorySymbols`
+  - `AlgebraicSymbol`,
+  - `ArithmeticSymbol`,
+  - `CurrencySymbol`,
+  - `GeometrySymbol`,
+  - `MathSymbol`,
+  - `RelationalSymbol`
+  - `SetTheorySymbol`
 - [Contributing](#contributing)
 - [Support](#support)
 - [Code of Conduct](#code-of-conduct)
@@ -45,14 +45,14 @@ npm install @typedly/symbol --save-peer
 ```typescript
 import {
   // Type.
-  AlgebraicSymbols,
-  ArithmeticSymbols,
-  CurrencySymbols,
-  GeometrySymbols,
-  LogicalSymbols,
-  MathSymbols,
-  RelationalSymbols,
-  SetTheorySymbols
+  AlgebraicSymbol,
+  ArithmeticSymbol,
+  CurrencySymbol,
+  GeometrySymbol,
+  LogicalSymbol,
+  MathSymbol,
+  RelationalSymbol,
+  SetTheorySymbol
 } from '@typedly/symbol';
 ```
 
