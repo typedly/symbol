@@ -10,5 +10,6 @@ export type {
   LogicalSymbol,
   MathSymbol,
   RelationalSymbol,
-  SetTheorySymbol
+  SetTheorySymbol,
+  TrademarkSymbol
 } from './lib';
