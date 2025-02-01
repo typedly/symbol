@@ -26,6 +26,7 @@ A **TypeScript** type definitions package for various symbols.
   - `MathSymbol`,
   - `RelationalSymbol`
   - `SetTheorySymbol`
+  - `TrademarkSymbol`
 - [Contributing](#contributing)
 - [Support](#support)
 - [Code of Conduct](#code-of-conduct)
@@ -52,7 +53,8 @@ import {
   LogicalSymbol,
   MathSymbol,
   RelationalSymbol,
-  SetTheorySymbol
+  SetTheorySymbol,
+  TrademarkSymbol
 } from '@typedly/symbol';
 ```
 
