@@ -2,7 +2,7 @@
  * @description A collection of common algebraic symbols.
  * @export
  */
-export type AlgebraicSymbols =
+export type AlgebraicSymbol =
   | '∂'  // Partial derivative
   | '∆'  // Delta
   | '∇'  // Nabla (gradient)

@@ -2,7 +2,7 @@
  * @description
  * @export
  */
-export type RelationalSymbols =
+export type RelationalSymbol =
   | '≤' // Less than or equal to (U+2264)
   | '≥' // Greater than or equal to (U+2265)
   | '≠' // Not equal to (U+2260)

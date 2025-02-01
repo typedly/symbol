@@ -2,7 +2,7 @@
  * @description Currencies.
  * @export
  */
-export type CurrencySymbols = 
+export type CurrencySymbol = 
   | '$'  // Dollar (U+0024)
   | '£'  // Pound Sterling (U+00A3)
   | '¥'  // Yen / Yuan (U+00A5)

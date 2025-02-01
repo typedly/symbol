@@ -2,7 +2,7 @@
  * @description The type of geometry symbols.
  * @export
  */
-export type GeometrySymbols =
+export type GeometrySymbol =
   | 'π'   // Pi (U+03C0) - The mathematical constant, whose value is approximately, 3.1415963231
   | '∠'   // Angle symbol (U+2220) - Geometry employs the symbol ∠ to represent angles within shapes.
   | '⊥'   // Perpendicular symbol (U+22A5) - The symbol ⊥ designates perpendicular lines that intersect at a right angle.
