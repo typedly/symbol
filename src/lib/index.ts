@@ -6,3 +6,4 @@ export type { LogicalSymbol } from './logical-symbol.type';
 export type { MathSymbol } from './math-symbol.type';
 export type { RelationalSymbol } from './relational-symbol.type';
 export type { SetTheorySymbol } from './set-theory-symbol.type';
+export type { TrademarkSymbol } from './trademark-symbol.type';
