@@ -2,7 +2,7 @@
  * @description A collection of common arithmetic symbols.
  * @export
  */
-export type ArithmeticSymbols =
+export type ArithmeticSymbol =
   | '%'  // Modulo operator
   | '*'  // Asterisk (U+002A)
   | '+'  // Addition, Plus (U+002B)

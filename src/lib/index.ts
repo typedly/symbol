@@ -1,8 +1,8 @@
-export type { AlgebraicSymbols } from './algebraic-symbols.type';
-export type { ArithmeticSymbols } from './arithmetic-symbols.type';
-export type { CurrencySymbols } from './currency-symbols.type';
-export type { GeometrySymbols } from './geometry-symbols.type';
-export type { LogicalSymbols } from './logical-symbols.type';
-export type { MathSymbols } from './math-symbols.type';
-export type { RelationalSymbols } from './relational-symbols.type';
-export type { SetTheorySymbols } from './set-theory-symbols.type';
+export type { AlgebraicSymbol } from './algebraic-symbols.type';
+export type { ArithmeticSymbol } from './arithmetic-symbols.type';
+export type { CurrencySymbol } from './currency-symbols.type';
+export type { GeometrySymbol } from './geometry-symbols.type';
+export type { LogicalSymbol } from './logical-symbols.type';
+export type { MathSymbol } from './math-symbols.type';
+export type { RelationalSymbol } from './relational-symbols.type';
+export type { SetTheorySymbol } from './set-theory-symbols.type';

@@ -1,13 +1,13 @@
 // Type.
-import { AlgebraicSymbols, ArithmeticSymbols, GeometrySymbols, RelationalSymbols, SetTheorySymbols } from ".";
+import { AlgebraicSymbol, ArithmeticSymbol, GeometrySymbol, RelationalSymbol, SetTheorySymbol } from ".";
 /**
  * @description The type of math symbols.
  * @export
  */
-export type MathSymbols = 
-  | AlgebraicSymbols
-  | ArithmeticSymbols
-  | GeometrySymbols
-  | RelationalSymbols
-  | SetTheorySymbols
+export type MathSymbol = 
+  | AlgebraicSymbol
+  | ArithmeticSymbol
+  | GeometrySymbol
+  | RelationalSymbol
+  | SetTheorySymbol
 ;

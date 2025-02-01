@@ -2,7 +2,7 @@
  * @description
  * @export
  */
-export type SetTheorySymbols =
+export type SetTheorySymbol =
   | '∪'  // Union symbol (U+222A)
   | '∩'  // Intersection symbol (U+2229)
   | '⊂'  // Proper subset symbol (U+2282)

@@ -3,12 +3,12 @@
  */
 
 export type {
-  AlgebraicSymbols,
-  ArithmeticSymbols,
-  CurrencySymbols,
-  GeometrySymbols,
-  LogicalSymbols,
-  MathSymbols,
-  RelationalSymbols,
-  SetTheorySymbols
+  AlgebraicSymbol,
+  ArithmeticSymbol,
+  CurrencySymbol,
+  GeometrySymbol,
+  LogicalSymbol,
+  MathSymbol,
+  RelationalSymbol,
+  SetTheorySymbol
 } from './lib';
